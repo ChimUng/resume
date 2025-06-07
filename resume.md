@@ -42,17 +42,21 @@ Global movement of free coding clubs for young people.
 
 ## Projects
 
-### <span>Miss Direction</span> <span>Aug 2016</span>
+### <span>Airline-ticket-manage_project</span> <span>May 2025</span>
 
-A mapping engine that misguides you:
+A management website  that allows you:
 
-   - Won award at AIHacks 2016
-   - Built by all women team of newbie programmers
-   - Using modern technologies such as GoogleMaps, Chrome Extension and Javascript
+   - Booking , Delete, Modify, Checking flight ticket
+   - Using modern technologies such as Php Server, Javascript, Template, SQL database
+   - Personal Project
+A website chatbox to support civil rights Q&A 2015
+   - Q&A using AI(GEMINI API)
+   - Help with study my Pháp Luật Đại Cương subject usefully
+   - Using modern technologies such as React framwork, Python, Google Auth, Supabase, Gemini Api Key, Rag chatbox
 
 ## Education
 
-### <span>SGU, SOFTWARE ENGINEERING</span> <span>2023 -- 2028</span>
+### <span>SGU, INFORMATION TECHNOLOGY</span> <span>2023 -- 2028</span>
 
   - GPA 3.2/4.0
   - DB1101 - Basic SQL
