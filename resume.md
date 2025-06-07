@@ -16,17 +16,14 @@ Currently, I'm a third year college student at USG majoring in software engineer
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>STUDENT/INTERN, SOFTWARE ENGINEERING,</span> <span>SEP 2023 -- SEP 2028</span>
+### <span>STUDENT/INTERN, SOFTWARE ENGINEERING,</span>
 
-Pied Piper is a multi-platform technology based on a proprietary universal
-compression algorithm that has consistently fielded high Weisman Scores™ that
-are not merely competitive, but approach the theoretical limit of lossless
-compression.
+Currently, I am a final year 2 student, 
+looking for an intern position in the fields of software engineer
+ or fullstack engineer + with chatbot integration.
 
- - Build an algorithm for artist to detect if their music was violating
-   copyright infringement laws
- - Successfully won Techcrunch Disrupt
- - Optimized an algorithm that holds the current world record for Weisman Scores
+ - Participated in Hackaton organized by SGU
+ - Successfully built Q&A Law website 2015
 
 ### <span>Teacher, CoderDojo</span> <span>July 2013 -- Dec 2013</span>
 
