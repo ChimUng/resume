@@ -25,12 +25,6 @@ looking for an intern position in the fields of software engineer
  - Participated in Hackaton organized by SGU
  - Successfully built Q&A Law website 2015
 
-### <span>Teacher, CoderDojo</span> <span>July 2013 -- Dec 2013</span>
-
-Global movement of free coding clubs for young people.
-
- - Awarded 'Teacher of the Month'
-
 ## Projects
 
 ### <span>Airline-ticket-manage_project</span> <span>/May 2025</span>
