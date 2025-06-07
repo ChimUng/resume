@@ -48,7 +48,7 @@ A website chatbox to support civil rights Q&A 2015:
 All code details in my Githup profile.
 ## Education
 
-### <span>SGU, INFORMATION TECHNOLOGY</span> <span>2023 -- 2028</span>
+### <span>SGU, INFORMATION TECHNOLOGY</span> <span>,2023 -- 2028</span>
 
   - GPA 3.2/4.0
 
