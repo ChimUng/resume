@@ -49,10 +49,17 @@ All code details in my Githup profile.
 ### <span>SGU, INFORMATION TECHNOLOGY</span> <span>2023 -- 2028</span>
 
   - GPA 3.2/4.0
-  - DB1101 - Basic SQL
-  - CS2011 - Java Introduction
 
 ## Skills
 
- - Web development: HTML, CSS, JavaScript
- - Compression: Mpeg, MP4, GIF
+ - Web development: HTML, Php, CSS, JavaScript, ReactJS, Python,
+ - API: FAST API, REST
+ - Git: GitHup desktop
+ - Database: SQL, MySQL, Supabase
+ - Teamwork: Analysis
+
+## LANGUAGE
+
+ - Vietnamese:Native
+ - English:Intermediate
+ 
