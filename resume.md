@@ -16,15 +16,13 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-CEO and Software Engineer with knowledge of applied information theory,
-including optimizing lossless compression schema of both the length-limited and
-adaptive variants.
+Currently, I'm a third year college student at USG majoring in software engineering 
 
 ## Experience
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>CEO/President, Pied Piper</span> <span>Dec 2013 -- Dec 2014</span>
+### <span>STUDENT/INTERN, SOFTWARE ENGINEERING,</span> <span>SEP 2023 -- SEP 2028</span>
 
 Pied Piper is a multi-platform technology based on a proprietary universal
 compression algorithm that has consistently fielded high Weisman Scores™ that
@@ -54,9 +52,9 @@ A mapping engine that misguides you:
 
 ## Education
 
-### <span>University of Oklahoma, BA Information Technology</span> <span>2011 -- 2014</span>
+### <span>SGU, SOFTWARE ENGINEERING</span> <span>2023 -- 2028</span>
 
-  - GPA 4.0
+  - GPA 3.2/4.0
   - DB1101 - Basic SQL
   - CS2011 - Java Introduction
 
