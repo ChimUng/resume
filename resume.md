@@ -1,12 +1,18 @@
 <!-- The (first) h1 will be used as the <title> of the HTML page -->
-# Richard Hendricks
+# NGUYỄN HỒNG DUY
 
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
-- <richard.hendriks@mail.com>
-- (912) 555-4321
-- [richardhendricks.example.com](http://richardhendricks.example.com)
-- San Francisco, CA
+- <duynguyen19087@mail.com>
+- (+84) 0982870931<!-- The (first) h1 will be used as the <title> of the HTML page -->
+# NGUYỄN HỒNG DUY
+
+<!-- The unordered list immediately after the h1 will be formatted on a single
+line. It is intended to be used for contact details -->
+- <duynguyen19087@mail.com>
+- (+84) 0982870931
+- [https://github.com/ChimUng)
+- Hóc Môn, Hồ Chí Minh City
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
