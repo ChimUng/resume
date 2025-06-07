@@ -20,7 +20,9 @@ hand -->
 
 Currently, I am a final year 2 student, 
 looking for an intern position in the fields of software engineer
- or fullstack engineer + with chatbot integration.
+ or fullstack engineer + with chatbot integratio to improve 
+my professional skills and team skills through contributions to 
+small/medium/large projects so that I can develop further in the future after graduation.
 
  - Participated in Hackaton organized by SGU
  - Successfully built Q&A Law website 2015
