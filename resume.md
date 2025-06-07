@@ -48,8 +48,8 @@ A management website  that allows you:
 
    - Booking , Delete, Modify, Checking flight ticket
    - Using modern technologies such as Php Server, Javascript, Template, SQL database
-   - Personal Project
-A website chatbox to support civil rights Q&A 2015
+   - Personal Project</br>
+A website chatbox to support civil rights Q&A 2015:
    - Q&A using AI(GEMINI API)
    - Help with study my Pháp Luật Đại Cương subject usefully
    - Using modern technologies such as React framwork, Python, Google Auth, Supabase, Gemini Api Key, Rag chatbox
