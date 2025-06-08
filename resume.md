@@ -2,11 +2,11 @@
 
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
-- <duynguyen19087@mail.com>
-- <https://www.linkedin.com/in/hong-duy-chimung-8a2a6b368/edit/forms/intro/new/?profileFormEntryPoint=PROFILE_SECTION>
-- <https://github.com/ChimUng>
-- (+84) 0982870931
-- Hóc Môn, Hồ Chí Minh City
+- ✉️<duynguyen19087@mail.com>
+- 🔗[LinkedIn]<https://www.linkedin.com/in/hong-duy-chimung-8a2a6b368/edit/forms/intro/new/?profileFormEntryPoint=PROFILE_SECTION>
+- 💻[GitHub]<https://github.com/ChimUng>
+- 📱(+84) 0982870931
+- 📍Hóc Môn, Hồ Chí Minh City
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
