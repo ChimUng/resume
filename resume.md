@@ -10,7 +10,7 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Currently, I'm a third year college student at USG majoring in software engineering 
+Currently, I'm a third year college student at SGU majoring in software engineering 
 
 ## Experience
 
@@ -20,7 +20,7 @@ hand -->
 
 Currently, I am a final year 2 student, 
 looking for an intern position in the fields of software engineer
- or fullstack engineer + with chatbot integratio to improve 
+ or fullstack engineer + with chatbot integration to improve 
 my professional skills and team skills through contributions to 
 small/medium/large projects so that I can develop in the future after graduation.
 
