@@ -4,64 +4,57 @@
 </p>
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
-![Phone](https://cdn-icons-png.flaticon.com/24/15/15874.png) (+84) 0982870931  
-![Email](https://cdn-icons-png.flaticon.com/24/732/732200.png) [duynguyen19087@mail.com](mailto:duynguyen19087@mail.com)  
-![Location](https://cdn-icons-png.flaticon.com/24/684/684908.png) Hóc Môn, Hồ Chí Minh City  
-![GitHub](https://cdn-icons-png.flaticon.com/24/25/25231.png) [github.com/ChimUng](https://github.com/ChimUng)  
-![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png) [linkedin.com/in/hong-duy-chimung-8a2a6b368](https://www.linkedin.com/in/hong-duy-chimung-8a2a6b368)
+   (+84) 0982870931  
+   [duynguyen19087@mail.com](mailto:duynguyen19087@mail.com)  
+   Hóc Môn, Hồ Chí Minh City  
+   [github.com/ChimUng](https://github.com/ChimUng)  
+   [linkedin.com/in/hong-duy-chimung-8a2a6b368](https://www.linkedin.com/in/hong-duy-chimung-8a2a6b368)
 
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
 
 
-## Introduce
+## Introduction
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
 
-   -I am currently a third-year college student at SGU, 
-looking for an Intern position in the fields of software engineer
- or fullstack engineer + with chatbot integration to improve 
-my professional skills and team skills through contributions to 
-small/medium/large projects so that I can develop in the future after graduation.</br>
-   -I am participated in Hackaton organized by SGU and successfully built Q&A Law website 2015
+   I am a third-year Information Technology student at Sai Gon University (SGU), actively seeking an internship opportunity in software engineering. I possess a strong willingness to learn, thrive under pressure, and consistently meet deadlines. My goal is to gain hands-on experience by applying my academic knowledge to real-world projects, working closely with experienced professionals, and continuously improving my practical skills.
+
+   In the short term, I aim to become a valuable intern by contributing effectively to team projects while learning from mentors and colleagues. Looking ahead, I am committed to growing into a skilled software engineer who can deliver high-quality solutions, communicate well with foreign partners, and take on increasing responsibilities to support organizational success.
 
 ## Projects
 
-### <span>Q&A Chatbox Law rights 2015</span> <span>/DECEM 2024-JAN 2025</span>
+### <span>Q&A Chatbot - Law Rights 2015</span> <span>12/2024 – 03/2025</span>
    
-A website chatbox to support civil rights Q&A 2015:
+A website (built during a Hackathon organized by SGU) to support learning my "Pháp Luật Đại Cương" subject more effectively:
 
-   - Description: create a chatbot web like Gemini that allows users ask and answer questions within the 2015 Civil Code area.
-   - Q&A using AI(GEMINI API KEY)
-   - Help with study my Pháp Luật Đại Cương subject usefully
-   - Using modern technologies such as:React framwork to built operation interface, Python to built API REST and system handling, Google Auth , Supabase to simplify storage and logging, Gemini Api Key in RAG_service
-   - Link:https://github.com/ChimUng/law_dansu2015_chatbox</br>
+   - Description: A chatbot web app like Gemini that allows users to ask questions related to the 2015 Civil Code.
+   - Integrated AI Q&A using Gemini API.
+   - Supabase: Created a client with `supabaseUrl` and `supabaseKey` to interact with the database, including configurations like `autoRefreshToken`, `persistSession`, and `detectSessionInUrl` for Google Auth.
+   - Frontend built with React: login/logout interface, chat input, and history display.
+   - Backend built with Python (FastAPI): extract PDF data → JSON → FAISS (vector data) for chatbot handling. REST API connects frontend and backend.
+   - Technologies: React, Python, Supabase, Gemini API, RAG System.
+   - Link: https://github.com/ChimUng/law_dansu2015_chatbox
 
-### <span>Airline ticket manage</span> <span>/APRIL 2025 - MAY 2025</span>
+### <span>Airline Ticket Management</span> <span>04/2025 – 05/2025</span>
 
-A management website that allows users:
+A group project website that allows users to:
 
-   - Finding, Booking , Delete, Modify, Checking flight ticket
-   - Manager Admin with Add, Delete, Modify, Auth, Decentralization,Statistics
-   - Using technologies such as Php Server, Javascript Ajax, SQL database
-   - Link:https://github.com/ChimUng/Airline-ticket-manage_project</br>
+   - Search, book, delete, modify, and check flight tickets (UI similar to mixivivu.com).
+   - Admin Panel (using phpMyAdmin via XAMPP) supports Add/Delete/Update Flights, User Authentication, Role Decentralization, and Statistics.
+   - I was responsible for backend logic, SQL queries, and interaction between PHP and JS.
+   - Technologies: PHP, JavaScript (AJAX), MySQL.
+   - Link: https://github.com/ChimUng/Airline-ticket-manage_project
 ## Education
 
-### <span>SGU, INFORMATION TECHNOLOGY</span> <span>,2023 -- 2028</span>
+### <span>Sai Gon University - SGU</span> <span>2023 – 2028</span>
 
-  - GPA 3.2/4.0
+   - Major: Information Technology
+   - GPA: 3.2 / 4.0
 
 ## Skills
 
- - Languages: Php server, JavaScript, ReactJS, Python
- - Database: MySQL, Supabase, MongoDB
-
-## Career Objective
-
- - Short-term: My immediate goal is to utilize the knowledge of the school to complete the group's tasks effectively, and at the same time learn from my seniors and colleagues to develop myself.
- - Long-term: In the future, I want to be attached to and take on more responsible tasks, to challenge myself with big projects, through which my skills will improve.I am committed to continuous improvement and aim to be a valuable asset to the organization.
-
-## Summary
-As a well-adjusted individual who is able to withstand pressure.This helps me complete projects or assignments at school on time. I am constantly learning and receptive to feedback, which helps me accumulate knowledge and gain valuable experience in applying that knowledge. My ultimate goal is to fulfill my passion and become a Software Engineer, and I am dedicated to pursuing this career path with enthusiasm and hard work
+   - **Languages**: PHP, JavaScript, ReactJS, Python 
+   - **Databases**: MySQL, MongoDB
