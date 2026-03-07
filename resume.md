@@ -1,60 +1,53 @@
-# NGUYỄN HỒNG DUY
-<p style="text-align: center; font-size: 18px; font-weight: bold; margin-top: -5px;">
-  SOFTWARE ENGINEER
+# NGUYEN HONG DUY
+
+<p style="text-align: center; margin-top: -5px;">
+0982870931 | <a href="mailto:duynguyen19087@gmail.com">duynguyen19087@gmail.com</a>
 </p>
-<!-- The unordered list immediately after the h1 will be formatted on a single
-line. It is intended to be used for contact details -->
-   (+84) 0982870931  
-   [duynguyen19087@mail.com](mailto:duynguyen19087@mail.com)  
-   Hóc Môn, Hồ Chí Minh City  
-   [github.com/ChimUng](https://github.com/ChimUng)  
-   [linkedin.com/in/hong-duy-chimung-8a2a6b368](https://www.linkedin.com/in/hong-duy-chimung-8a2a6b368)
+<p style="text-align: center; margin-top: -5px;">
+<a href="https://www.linkedin.com/in/hong-duy-chimung-8a2a6b368">linkedin.com/in/hong-duy-chimung-8a2a6b368</a> | <a href="https://github.com/ChimUng">github.com/ChimUng</a>
+</p>
 
+## Objective
 
-<!-- The paragraph after the h1 and ul and before the first h2 is optional. It
-is intended to be used for a short summary. -->
+Third-year Software Engineering student at Sai Gon University with a strong foundation in Java, JavaScript, and DevOps. Aiming to grow as a Full-Stack Engineer with a long-term goal of building scalable, high-performance distributed systems. Passionate about system design, backend architecture, and performance optimization.
 
-
-## Introduction
-
-<!-- You have to wrap the "left" and "right" half of these headings in spans by
-hand -->
-
-   I am a third-year Information Technology student at Sai Gon University (SGU), actively seeking an internship opportunity in software engineering. I possess a strong willingness to learn, thrive under pressure, and consistently meet deadlines. My goal is to gain hands-on experience by applying my academic knowledge to real-world projects, working closely with experienced professionals, and continuously improving my practical skills.
-
-   In the short term, I aim to become a valuable intern by contributing effectively to team projects while learning from mentors and colleagues. Looking ahead, I am committed to growing into a skilled software engineer who can deliver high-quality solutions, communicate well with foreign partners, and take on increasing responsibilities to support organizational success.
-
-## Projects
-
-### <span>Q&A Chatbot - Law Rights 2015</span> <span>12/2024 – 03/2025</span>
-   
-A website (built during a Hackathon organized by SGU) to support learning my "Pháp Luật Đại Cương" subject more effectively:
-
-   - Description: A chatbot web app like Gemini that allows users to ask questions related to the 2015 Civil Code.
-   - Integrated AI Q&A using Gemini API.
-   - Supabase: Created a client with `supabaseUrl` and `supabaseKey` to interact with the database, including configurations like `autoRefreshToken`, `persistSession`, and `detectSessionInUrl` for Google Auth.
-   - Frontend built with React: login/logout interface, chat input, and history display.
-   - Backend built with Python (FastAPI): extract PDF data → JSON → FAISS (vector data) for chatbot handling. REST API connects frontend and backend.
-   - Technologies: React, Python, Supabase, Gemini API, RAG System.
-   - Link: https://github.com/ChimUng/law_dansu2015_chatbox
-
-### <span>Airline Ticket Management</span> <span>04/2025 – 05/2025</span>
-
-A group project website that allows users to:
-
-   - Search, book, delete, modify, and check flight tickets (UI similar to mixivivu.com).
-   - Admin Panel (using phpMyAdmin via XAMPP) supports Add/Delete/Update Flights, User Authentication, Role Decentralization, and Statistics.
-   - I was responsible for backend logic, SQL queries, and interaction between PHP and JS.
-   - Technologies: PHP, JavaScript (AJAX), MySQL.
-   - Link: https://github.com/ChimUng/Airline-ticket-manage_project
 ## Education
 
-### <span>Sai Gon University - SGU</span> <span>2023 – 2028</span>
+**Sai Gon University** <span style="float:right">Expected 2028</span>  
+Bachelor of Software Engineering <span style="float:right"><em>Ho Chi Minh City, Vietnam</em></span>
 
-   - Major: Information Technology
-   - GPA: 3.2 / 4.0
+- GPA: 3.2/4.0
+- Relevant Coursework: Advanced Web Development, Data Structures and Algorithms, Object-Oriented Programming (Java), Software Testing & QA, Database Management.
 
 ## Skills
 
-   - **Languages**: PHP, JavaScript, ReactJS, Python 
-   - **Databases**: MySQL, MongoDB
+- **Languages:** Java, JavaScript, TypeScript
+- **Frameworks:** Spring Boot, React, Next.js
+- **Cloud & Databases:** AWS, MongoDB, PostgreSQL, Redis, Supabase
+- **Tools:** Docker, Git, Postman, GitHub CI/CD
+- **Languages:** Vietnamese (Native), English (Working)
+
+## Projects
+
+**Animeflix – Anime Streaming Platform [[GitHub]](https://github.com/ChimUng/animeflix)** <span style="float:right">Jun 2025 – Present</span>  
+*Next.js 15 (App Router), React 19, TypeScript, MongoDB, Redis, NextAuth, Vidstack, Vercel*
+
+- Built a full-stack anime streaming platform integrating AniList API and multiple streaming providers with fallback handling.
+- Designed scalable App Router architecture (Server/Client Components) to optimize SEO and performance.
+- Implemented Redis caching and custom API aggregation to reduce rate limits and improve response time.
+- Developed HLS video streaming with Vidstack and persistent watch history using MongoDB.
+- Deployed on Vercel using serverless functions for automatic optimization. <a href="https://animeflixnow.vercel.app/" style="text-decoration:none; color:red;">[ <img src="icon-192x192.png" width="18" height="18" style="vertical-align:-3px; margin-right:3px"/>ANIMEFLIX ]</a>
+
+**Animeflix Third-Party System [[GitHub]](https://github.com/ChimUng/animeflixbackend)** <span style="float:right">Oct 2025 – Present</span>  
+*Spring Boot, Docker, MongoDB, Kafka, Redis (Upstash), RAG, AWS*
+
+- Architected a scalable microservices backend serving as API gateway and third-party anime data aggregator.
+- Designed and implemented core services: Auth (JWT + rate limiting), User (watch history, recommendations), Catalog (anime metadata, search, seasonal/top lists), Episode Orchestration (multi-provider streaming fallback).
+- Implemented event-driven communication with Kafka and Redis caching to improve scalability and throughput.
+- Developed a Hybrid AI Search module using RAG, vector embeddings, and LLM query parsing for fuzzy anime search.
+- Deployed Dockerized services on AWS cloud infrastructure.
+
+## Activities & Interests
+
+- Passionate about system design and user-centric web application architecture.
+- Enjoy participating in team sports and continuously improving English communication.
