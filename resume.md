@@ -4,7 +4,7 @@
 0982870931 | <a href="mailto:duynguyen19087@gmail.com">duynguyen19087@gmail.com</a>
 </p>
 <p style="text-align: center; margin-top: -5px;">
-<a href="https://www.linkedin.com/in/hong-duy-chimung-8a2a6b368">linkedin.com/in/hong-duy-chimung-8a2a6b368</a> | <a href="https://github.com/ChimUng">github.com/ChimUng</a>
+<a href="https://chimung.github.io/portfolio/">MyPortfolio</a> | <a href="https://github.com/ChimUng">github.com/ChimUng</a>
 </p>
 
 ## Objective
@@ -22,9 +22,9 @@ Bachelor of Software Engineering <span style="float:right"><em>Ho Chi Minh City,
 ## Skills
 
 - **Languages:** Java, JavaScript, TypeScript
-- **Frameworks:** Spring Boot, React, Next.js
+- **Frameworks:** Spring Boot, React, Node.js, Next.js
 - **Cloud & Databases:** AWS, MongoDB, PostgreSQL, Redis, Supabase
-- **Tools:** Docker, Git, Postman, GitHub CI/CD
+- **Tools:** Docker, Git, Postman, GitHub CI/CD, Kafka
 - **Languages:** Vietnamese (Native), English (Working)
 
 ## Projects
