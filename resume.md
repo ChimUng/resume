@@ -21,10 +21,10 @@ Bachelor of Software Engineering <span style="float:right"><em>Ho Chi Minh City,
 
 ## Skills
 
-- **Languages:** Java, JavaScript, TypeScript
+- **Programming Languages:** Java, JavaScript, TypeScript
 - **Frameworks:** Spring Boot, React, Node.js, Next.js
-- **Cloud & Databases:** AWS, MongoDB, PostgreSQL, Redis, Supabase
-- **Tools:** Docker, Git, Postman, GitHub CI/CD, Kafka, Cloudflare
+- **Cloud & Databases:** AWS, MongoDB, PostgreSQL, Redis, Supabase, Cloudflare
+- **Tools:** Docker, Git, Postman, GitHub CI/CD, Kafka
 - **Languages:** Vietnamese (Native), English (Working)
 
 ## Projects
